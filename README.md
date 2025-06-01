@@ -4,10 +4,7 @@ The primary objective is to configure and test basic firewall rules to allow or 
 
 Tools: UFW (Uncomplicated Firewall)
 
-A summary explaining how a firewall filters traffic.
-
 Mini-Guide: Firewall Configuration Steps & Commands (UFW on Linux)
-UFW (Uncomplicated Firewall) on Linux
 1. Open Firewall Configuration Tool (Terminal):
 * UFW is managed via the command line. Open your terminal.
 
